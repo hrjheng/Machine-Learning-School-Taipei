@@ -1,0 +1,7 @@
+data/MinBias_Hydjet_Drum5F_2018_5p02TeV_minPt0p1_cent0to10.root filter=lfs diff=lfs merge=lfs -text
+data/MinBias_Hydjet_Drum5F_2018_5p02TeV_minPt0p1_cent0to100.root filter=lfs diff=lfs merge=lfs -text
+data/MinBias_Hydjet_Drum5F_2018_5p02TeV_minPt0p1_cent0to30.root filter=lfs diff=lfs merge=lfs -text
+data/MinBias_Hydjet_Drum5F_2018_5p02TeV_minPt0p1_cent_merged.root filter=lfs diff=lfs merge=lfs -text
+printEvents_MinBias_Hydjet_Drum5F_2018_5p02TeV_minPt0p1_cent_0_100.txt filter=lfs diff=lfs merge=lfs -text
+printEvents_MinBias_Hydjet_Drum5F_2018_5p02TeV_cent_0_30.txt filter=lfs diff=lfs merge=lfs -text
+printEvents_MinBias_Hydjet_Drum5F_2018_5p02TeV_cent_0_10.txt filter=lfs diff=lfs merge=lfs -text
